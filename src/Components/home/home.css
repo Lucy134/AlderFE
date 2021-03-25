@@ -1,0 +1,49 @@
+body{
+    background-image: url(st-louis-skyline.jpg);
+    background-repeat: no-repeat;
+}
+.hero-image {
+    background-image: url("/images/skyline.jpg");
+     height: 50%; 
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.intro{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-align: left;
+    margin-left: 24px;
+}
+.welcome{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-weight: bold;
+}
+city{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+p{
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    text-align: center;
+    margin-top: 10%;
+    width: 100%;
+    margin-left: 30px;
+}
+.pic{
+    padding-top: 30px;
+    margin-top: 2%;
+    align-content: right;
+ 
+    text-align: center;
+
+}

@@ -1,0 +1,26 @@
+.youAld{
+    margin-top: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: black;
+    padding-left: 5%;
+    
+}
+.card-class{
+    margin-top: 25%;
+    border-style: solid;
+    border-width: 2px;
+    
+}
+.aldList{
+    color: black;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-contain{
+    background-color: #f1fee9af;
+  max-height: 550px;
+  margin-top: 40%;
+  margin: 2%;
+  margin-left: 5%;
+}

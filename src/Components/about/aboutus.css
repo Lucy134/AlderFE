@@ -1,0 +1,21 @@
+.artcontain{
+
+    background-color:#bef5b0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 750px;
+    border : 0.5em solid black;
+    height: 405px;
+    padding: 2%;
+    align-content: center;
+    margin-left: 20%;
+    
+    
+}
+p{
+    text-align: center;
+    font-size: large;
+    
+}
+h1{
+    margin-left: 4%;
+}

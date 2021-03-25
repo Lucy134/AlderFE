@@ -1,0 +1,29 @@
+.w-90{
+  margin-top: 5px;
+  background-color: #3d6751;
+  color: whitesmoke;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sidecard-text{
+  font-size: small;
+  
+}
+.sidecard-title{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  
+  
+}
+.side-head{
+  text-align: center;
+  
+}
+.side-container{
+  
+  max-height: 550px;
+  margin: 2%;
+  margin-left: 5%;
+    
+}
+

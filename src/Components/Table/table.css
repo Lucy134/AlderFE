@@ -1,0 +1,21 @@
+.text-title{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tbody{
+    align-content: center;
+    max-height: 500px;
+    overflow-y: scroll;
+    margin-left: 20%;
+}
+.tbody :: -webkit-scrollbar {
+    width: 1px;
+    
+}
+
+.header-bottom {
+    margin-bottom: 5%;
+}
+.table table-striped table-bordered{
+    margin-right: 5px;
+}
